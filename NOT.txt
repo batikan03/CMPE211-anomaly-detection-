@@ -1,0 +1,2 @@
+STATÝSTÝCAL ANOMALLY DETECTÝON da FJAVACHART kütüphanesini indirip kullandýk kodun çalýþmaý için sizinde eklemeniz gerekli.
+ÝSOLATÝON TREE kýsmýnda grafiðe çýkarma ve yazdýrma kýsýmý tamamlanmýþ deðil onun dýþýnda anomally yi bulabiliyor
